@@ -1,0 +1,66 @@
+[33mcommit de1a4d87d7897b880f869be5045e37fb706daf0d[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: feji_007 <feji_007@126.com>
+Date:   Fri Jan 17 14:53:33 2020 +0800
+
+    pwd
+
+[33mcommit df938482e3323926ee80074202acd0eb422ef0b1[m
+Merge: 7d40b6b 6359c79
+Author: feji_007 <feji_007@126.com>
+Date:   Fri Jan 17 14:46:43 2020 +0800
+
+    Merge branch 'master' of github.com:feji007/learngit
+
+[33mcommit 6359c7950d43fecc714affae51165f716f401ced[m
+Author: feji007 <45061915+feji007@users.noreply.github.com>
+Date:   Thu Jan 16 15:44:02 2020 +0800
+
+    Initial commit
+
+[33mcommit 7d40b6ba1e35d955b58d1c6497f6365d1ee3be0d[m
+Author: feji_007 <feji_007@126.com>
+Date:   Thu Jan 16 14:57:27 2020 +0800
+
+    remove file1.txt
+
+[33mcommit 05237db70adeceb70ddf317b99433ca83c95e5b0[m
+Author: feji_007 <feji_007@126.com>
+Date:   Thu Jan 16 14:34:28 2020 +0800
+
+    second modified
+
+[33mcommit 98ab26675ac38b5701bae3b9fbcf51a19184cdfa[m
+Author: feji_007 <feji_007@126.com>
+Date:   Thu Jan 16 14:32:09 2020 +0800
+
+    git tracks changes
+
+[33mcommit 168214a71ed883ee7321cbe2c149d83f81e59c3d[m
+Author: feji_007 <feji_007@126.com>
+Date:   Thu Jan 16 14:25:59 2020 +0800
+
+    understand how stage works
+
+[33mcommit 4785c96ac194b1c03225a6c448055faeb392ec35[m
+Author: feji_007 <feji_007@126.com>
+Date:   Thu Jan 16 14:00:47 2020 +0800
+
+    append GPL
+
+[33mcommit d6791df2bcbbd3fc13ce849b8ebf840ca4a6ea6c[m
+Author: feji_007 <feji_007@126.com>
+Date:   Thu Jan 16 13:59:00 2020 +0800
+
+    add distributed
+
+[33mcommit 9f92fdd3a2d7d60d4d839a106f06a8fffd35aeba[m
+Author: feji_007 <feji_007@126.com>
+Date:   Thu Jan 16 13:54:00 2020 +0800
+
+    add 3 files.
+
+[33mcommit 896bc47db38fbab923bd771b16aed82076f9f6e9[m
+Author: feji_007 <feji_007@126.com>
+Date:   Thu Jan 16 13:49:01 2020 +0800
+
+    wrote a readme file
